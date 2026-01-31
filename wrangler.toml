@@ -1,4 +1,4 @@
-name = "read-aloud"
+name = "read-aloud-cloudflare"
 compatibility_flags = ["nodejs_compat"]
 compatibility_date = "2025-09-01"
 main = "dist-prebuild/index.js"
